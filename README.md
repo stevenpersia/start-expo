@@ -1,6 +1,4 @@
-# Start expo
-
-<div style="text-align: center; width: 100%"></div><img src="./assets/startexpo.png" alt="Start Expo" width="120" /></div>
+<h1 align="center"><img src="./assets/startexpo.png" alt="Start Expo" width="120" /></h1>
 
 Minimal starter kit for Expo.io project (React Native). No unnecessary packages installed, only the essentials.
 
@@ -24,7 +22,7 @@ Before all, be sure to have Explo CLI installed on your computer and Eslint / Pr
 Clone this repository :
 
 ```bash
-git clone ...
+git clone https://github.com/stevenpersia/start-expo.git
 cd start-expo
 ```
 
